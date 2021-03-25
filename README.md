@@ -41,9 +41,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 The gif below illustrates what happens when you make mistakes:
+
 ![](https://i.imgur.com/RstsOK4.gif)
 
 The gif below illustrates what happens when you win:
+
 ![](https://i.imgur.com/vpEhdgw.gif)
 
 
